@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/우식컴퍼니/jar/boilerpipe-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/우식컴퍼니/jar/nekohtml-1.9.13.jar"/>
+	<classpathentry kind="lib" path="D:/우식컴퍼니/jar/xerces-2.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/우식컴퍼니/jar/komoran-1.12.jar"/>
+	<classpathentry kind="lib" path="D:/우식컴퍼니/jar/shineware-common-lib-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/우식컴퍼니/jar/restfb-1.6.12.jar"/>
+	<classpathentry kind="lib" path="D:/우식컴퍼니/jar/twitter4j-core-3.0.3.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
